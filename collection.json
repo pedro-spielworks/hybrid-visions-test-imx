@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "Hybrid Visions",
+    "description": "Hybrid Visions — a collection of ARTifacts where games, fashion, digital paintings and music harmoniously reflect the evolution of art and creative performance. Timeless and in-the-moment, they represent progress that can only be achieved through a collaboration of unique media.",
+    "image": "https://metadata.wombat.app/imx-zkevm/hybrid-visions/collection-logo.jpg",
+    "external_link": "https://polygon.atomichub.io/explorer/collection-id/polygon-mainnet/Hybrid-Visions_aa5ac7a7-06d8-173d-4e2d-021fb0f057b4" 
 }

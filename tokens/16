@@ -1,7 +1,7 @@
 {
-    "id": 16,
-    "image": "https://pedro-spielworks.github.io/hybrid-visions-test-imx/tokens/token-music.png",
-    "token_id": "16",
-    "name": "ART-04 (Music)",
-    "description": "Music is a textbook example of elevated simplicity. With only seven notes, humanity has created a vast audio library of reflections upon evergreen feelings and experiences and unique, once-in-a-lifetime events of various magnitudes. Its transformative power is soft but persistent, without any need for decoding the language or key visual layers. You hear it, and you feel it. \n\nMusic is transcendental, a universal language of perfect harmony or distortion."
-  }
+  "id": 16,
+  "image": "https://pedro-spielworks.github.io/hybrid-visions-test-imx/tokens/token-art.png",
+  "token_id": "16",
+  "name": "ART-01 (Art)",
+  "description": "Human civilization is imprinted in visual depictions. Our roots lie in primitive cave drawings and take us all the way to the most elaborate experiences of today, created by a single visionary or collective. \n\nBeing artistic means being human. \n\nFind the next ARTifact where what we wear looks like it never wears down."
+ }
